@@ -4,3 +4,5 @@ track two file in repo
 12
 123
 123
+update something
+update hello.txt
